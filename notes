@@ -1,0 +1,5 @@
+Notes:
+Portable version of the "Monica 10" application. This version is designed to create clients, manage inventory, and generate receipts. 
+The main function is to connect this portable application to the desktop version so that employees can send client information.
+It is connected to a data base call monica and this app is an alpha version
+
